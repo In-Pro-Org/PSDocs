@@ -1,0 +1,14 @@
+name: PSDocs
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/73568e3d-2e54-4b5a-b4fb-227a41b54ad7
+description: Generate documentation from Infrastructure as Code (IaC).
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
